@@ -13,7 +13,7 @@ Formally, a builder pattern encapsulates or hides the process of building a comp
 - Concrete Builder
 - Director
 - Product
-![](./建造者模式.PNG)
+![](./image/建造者模式.PNG)
 
 
 接下来的示例讨论了如何在不将表示和构造复杂的对象两个操作耦合在一起。
